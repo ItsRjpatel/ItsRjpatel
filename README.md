@@ -1,3 +1,21 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00CFFF&height=180&section=header&text=Rajeev%20Kumar%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- Profile Picture -->
+<p align="center">
+  <img src="Pic.jpg" alt="Rajeev Kumar" width="180" style="border-radius:50%; border: 4px solid #0078D4;">
+</p>
+
+<h2 align="center">Azure Administrator | Cloud & DevOps Enthusiast</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-0A66C2?logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+</p>
 <!-- Banner -->
 <h1 align="center">🚀 Rajeev Kumar | Azure Administrator Journey</h1>
 <p align="center">
