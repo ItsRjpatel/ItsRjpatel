@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="ItsRjpatel/Pic.jpg" alt="Rajeev Kumar" width="180" style="border-radius:50%; border: 4px solid #0078D4;">
+  <img src="Pic.png" alt="Rajeev Kumar" width="180" style="border-radius:50%; border: 4px solid #0078D4;">
 </p>
 
 <h2 align="center">Azure Administrator | Cloud & DevOps Enthusiast</h2>
