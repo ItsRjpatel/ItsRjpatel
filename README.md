@@ -24,8 +24,8 @@
 
 ## 👨‍💻 About Me
 - 📍 Patna, Bihar  
-- 💼 System Engineer @ Wipro (**4+ years IT experience**)  
-- 🎓 B.Tech @ BITS Pilani (Ongoing, 4th Semester)  
+- 💼 System Engineer @ Wipro (**3+ years IT experience**)  
+- 🎓 B.Tech @ BITS Pilani (Ongoing, 5th Semester)  
 - ☁️ Cloud Enthusiast: Azure Administration, DevOps, Linux, Infrastructure  
 - 📧 **itsrj2204@gmail.com** | 📱 +91 6299614414  
 
