@@ -8,22 +8,18 @@
   <img src="Pic.jpg" alt="Rajeev Kumar" width="180" style="border-radius:50%; border: 4px solid #0078D4;">
 </p>
 
-<h2 align="center">Azure Administrator | Cloud & DevOps Enthusiast</h2>
+<h2 align="center">🚀 Rajeev Kumar | Azure Administrator | Cloud & DevOps Enthusiast</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps-0A66C2?logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-</p>
-<!-- Banner -->
-<h1 align="center">🚀 Rajeev Kumar | Azure Administrator Journey</h1>
-<p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Certified-AZ--900-blue?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Target-AZ--104%20Administrator-orange?logo=azure-devops" />
   <img src="https://img.shields.io/badge/Learn%20Points-3000%2B-blue?logo=microsoft" />
 </p>
-
+<!-- Banner -->
 ---
 
 ## 👨‍💻 About Me
@@ -43,7 +39,7 @@
   - Google Cloud Gen AI (L1, L2)  
   - Oracle DBA L1  
   - Linux Admin (L1, L2)  
-  - Windows Server Admin  
+  - Windows Server Admin 
 
 ---
 
